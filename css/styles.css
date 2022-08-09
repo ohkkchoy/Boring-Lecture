@@ -1,0 +1,14 @@
+img.intro {
+  float: right;
+
+}
+h2.intro {
+  font-style: bold;
+  text-decoration: underline;
+  text-decoration-color: blue;
+  
+}
+p.intro {
+  text-align: center;
+  color: maroon;
+}
